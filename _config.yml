@@ -1,0 +1,13 @@
+# Site settings
+title: Your awesome title
+email: mail@coolcow.org
+description: >
+  no description yet
+baseurl: ""
+url: "http://coolcow.github.io"
+twitter_username: aka_coolcow
+github_username:  coolcow
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
