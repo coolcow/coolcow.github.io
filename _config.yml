@@ -1,13 +1,14 @@
-# Site settings
-title: Your awesome title
+title: coolcow.org
 email: mail@coolcow.org
-description: >
-  no description yet
+description: >- 
+  created using Jekyll
 baseurl: ""
-url: "http://coolcow.github.io"
+url: "https://coolcow.org"
 twitter_username: aka_coolcow
 github_username:  coolcow
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:title:output_ext
+theme: minima
+plugins:
+  - jekyll-feed
