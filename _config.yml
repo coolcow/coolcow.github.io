@@ -1,11 +1,13 @@
 title: coolcow.org
 email: mail@coolcow.org
 description: >- 
-  created using Jekyll
+  Personal homepage about programming, 3D printing, RC flying, and astronomy.
 baseurl: ""
 url: "https://coolcow.org"
 twitter_username: aka_coolcow
 github_username:  coolcow
+repository: coolcow/coolcow.github.io
+lang: en
 
 # Build settings
 markdown: kramdown
