@@ -1,0 +1,17 @@
+title: coolcow.org
+email: mail@coolcow.org
+description: >- 
+  Personal homepage by coolcow.
+baseurl: ""
+url: "https://coolcow.org"
+github_username:  coolcow
+repository: coolcow/coolcow.github.io
+lang: en
+style_variant: material
+header_pages: []
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
