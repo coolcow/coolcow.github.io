@@ -15,10 +15,10 @@
   --heading: #111827;
   --quote-border: #d1d5db;
   --icon-muted: #828282;
-  --header-bg: #c8e5ff;
+  --header-bg: #9ccfff;
   --header-text: #1f3a56;
   --header-text-soft: #2c4d70;
-  --footer-bg: #c9ebcd;
+  --footer-bg: #a8e6b0;
   --footer-text: #17351d;
   --footer-text-soft: #214828;
   {% if style_variant == "minimal" %}
@@ -34,6 +34,7 @@
 }
 
 body {
+  margin: 0;
   background: var(--bg);
   color: var(--text);
   font-family: "Inter", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -58,6 +59,7 @@ a:hover {
   box-shadow: 0 1px 0 var(--border);
   min-height: 0;
   padding: 0.2rem 0;
+  border-top: 0;
 }
 
 .site-header .wrapper {
