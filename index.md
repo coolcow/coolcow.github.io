@@ -26,7 +26,7 @@ My core programming stack is **Java full-stack** (Spring, Spring Boot, Swing, JU
 ## Why “coolcow”?
 {:.section-heading .section-icon-cow}
 
-More than 25 years ago, back in the days of ICQ numbers and LAN parties, I needed a nickname for **Counter-Strike**. My best friend already had the perfect one: **crazysheep**, so I copied the same pattern: adjective plus animal, ideally something farm-related.
+More than 25 years ago, back in the days of ICQ numbers and LAN parties, I needed a nickname for **Counter-Strike**. My best friend already had one that suited him perfectly: **crazysheep**, so I copied the same pattern: adjective plus animal, ideally something farm-related.
 
 “cool” came first, because staying calm is something I have always tried to practice. “cow” followed, inspired by one of my favorite mental images: a cow peacefully chewing grass next to a noisy highway, completely unimpressed by the chaos around it. That image turned into a small life philosophy: stay calm, keep chewing, and do not panic. And that is how <strong>coolcow</strong> was born, a name that has stayed with me ever since as my alter ego wherever one is required.
 
